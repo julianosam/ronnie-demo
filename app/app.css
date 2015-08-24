@@ -1,0 +1,16 @@
+body {
+	margin-top: 80px;
+}
+
+
+.grey-bg{
+
+	/* R G B */
+	background: #eee;
+
+}
+
+.list-group-header {	
+	background: #888;
+	color: #fff;
+}
