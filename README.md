@@ -1,5 +1,5 @@
-# angularjs-sg
-Study Group's Angular.js project
+# ronnie-demo
+Ronnie Demo Angular.js project
 
 # To setup your local box
 
@@ -9,7 +9,7 @@ Study Group's Angular.js project
   sudo apt-get install npm
   ```
   
-  Then you can setup the project in yout local
+  Then you can setup the project in your local
 
   ```bash
   git clone https://github.com/julianosam/ronnie-demo.git
