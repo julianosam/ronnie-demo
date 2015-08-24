@@ -12,7 +12,7 @@ Study Group's Angular.js project
   Then you can setup the project in yout local
 
   ```bash
-  git clone https://github.com/julianosam/angularjs-sg.git
+  git clone https://github.com/julianosam/ronnie-demo.git
   npm install
   bower install
   ```
